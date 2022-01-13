@@ -1,0 +1,7 @@
+.menu-items li:hover{
+    transform: translateY(-5px);
+    transition: ease 0.5s;
+}
+.menu-items li:active{
+    border-bottom: 2px solid #F46A35;    
+}

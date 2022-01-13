@@ -1,0 +1,40 @@
+.fp{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    
+}
+.fp h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+}
+.support{
+  display: flex;
+  position: relative;
+  /* border:  1px solid grey; */
+  /* border-collapse: collapse; */
+  align-items: center;
+  justify-content: center;
+}
+.f1, .f2, .f3{
+  background-color: #023783 ;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  /* font-weight: ; */
+  font-size: 20px;
+  text-align: center;
+  margin: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 2px solid #01193b;
+  /*border-collapse: collapse; */
+  width:400px;
+
+}
+.support-icons{
+  font-size: 30px;
+  font-weight: 700;
+
+}
